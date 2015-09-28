@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// A struct conjunto possui um vetor que armazena os elementos, e um inteiro que armazena a quantidade
+// A struct conjunto possui um  vetor que armazena os elementos, e um inteiro que armazena a quantidade
 typedef struct conjunto{
     int *vet;
     int n_element;
