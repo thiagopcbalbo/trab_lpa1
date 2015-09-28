@@ -4,7 +4,7 @@ Thiago Balbo - 8955581 ;
 
 Detalhes do desenvolvimento:
 
-Ambiente de desenvolvimento usado: QT Creator 5.5.0
+Ambiente de desenvolvimento usado: QT Creator 5.5.0 
 
 Compilador usado: GNU GCC
 
