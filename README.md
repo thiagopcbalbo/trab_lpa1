@@ -1,5 +1,4 @@
 Integrantes do grupo:
-Ana Luiza Oliveira - 8955598 ; 
 Arthur Carolo - 8955560 ; 
 Thiago Balbo - 8955581 ;
 
