@@ -24,7 +24,8 @@ CONJUNTO *inicializar_conj (int n_elementos){
 }
 
 //Essa funcao libera toda a memoria alocada em um conjunto
-void liberar_conj (CONJUNTO *conj){
+void liberar_conj (CONJUNTO *conj)
+{
     free (conj->vet);
     free (conj);
 }
